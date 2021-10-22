@@ -16,7 +16,7 @@ The aim is to build a predictive model and predict the sales of each product at 
 
 
 
-#** Observation one**: What is the relationship between sales and item visibility?
+# Observation one**: What is the relationship between sales and item visibility?
 
 When looking at the relationship between sales and item visibility, it is interesting that as visibility goes up, then sales go down—not sure what that means: it could be that something is wrong with the data since we see that visibility data has a zero within the data—not sure how to interpret.
 
