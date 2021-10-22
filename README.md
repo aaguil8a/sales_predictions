@@ -16,3 +16,40 @@ The aim is to build a predictive model and predict the sales of each product at 
 
 
 
+# plot 1
+
+![image](https://user-images.githubusercontent.com/55922514/138441941-280737aa-477b-49c1-b0c3-d47563e6022b.png)
+
+
+# plot 2
+
+![image](https://user-images.githubusercontent.com/55922514/138442076-f77e64ec-3123-4066-a093-8c291f4b7da5.png)
+
+
+# plot 3
+
+![image](https://user-images.githubusercontent.com/55922514/138442205-ff06f614-3be0-4d76-bf20-41283de50dc4.png)
+
+
+
+
+# plot 4
+
+![image](https://user-images.githubusercontent.com/55922514/138442263-5f0eddc5-663c-4926-80f9-8322e5a1a003.png)
+
+
+
+# Feature Importance
+
+
+![Screenshot 2021-10-22 035501](https://user-images.githubusercontent.com/55922514/138442652-94a9fadc-1f1b-42fe-bb8e-756788ce2adb.png)
+
+# Model Performance
+
+
+
+
+![Screenshot 2021-10-22 035428](https://user-images.githubusercontent.com/55922514/138442717-94e04ef8-ef74-473a-82e1-9afe8abba4ff.png)
+
+
+
