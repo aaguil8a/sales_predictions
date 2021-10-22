@@ -33,7 +33,9 @@ Within the boxplot, we see that sales are better at supermarket type 3 and that 
 ![image](https://user-images.githubusercontent.com/55922514/138442076-f77e64ec-3123-4066-a093-8c291f4b7da5.png)
 
 
-# plot 3
+# Observation three: What is the relationship between sales and outlet type: including both tier type & Size?
+
+We can see that given outlet type, then sales tend to be better: but two interesting things is that: for supermarket type 2 and type 3, tier 3 is consistent—we also see that outlet size does not play much of a role, except when looking at supermarket type 1.
 
 ![image](https://user-images.githubusercontent.com/55922514/138442205-ff06f614-3be0-4d76-bf20-41283de50dc4.png)
 
