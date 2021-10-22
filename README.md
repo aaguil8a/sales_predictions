@@ -16,7 +16,7 @@ The aim is to build a predictive model and predict the sales of each product at 
 
 
 
-# Observation one: What is the relationship between sales and item visibility?
+# Observation One: What Is the Relationship Between Sales and Item Visibility?
 
 When looking at the relationship between sales and item visibility, it is interesting that as visibility goes up, then sales go down—not sure what that means: it could be that something is wrong with the data since we see that visibility data has a zero within the data—not sure how to interpret.
 
@@ -25,7 +25,7 @@ When looking at the relationship between sales and item visibility, it is intere
 ![image](https://user-images.githubusercontent.com/55922514/138441941-280737aa-477b-49c1-b0c3-d47563e6022b.png)
 
 
-# Observation two: What is the relationship between sales and outlet type?
+# Observation Two: What Is the Relationship Between Sales and Outlet type?
 
 Within the boxplot, we see that sales are better at supermarket type 3 and that grocery store does the worse in terms of sales.
 
@@ -33,7 +33,7 @@ Within the boxplot, we see that sales are better at supermarket type 3 and that 
 ![image](https://user-images.githubusercontent.com/55922514/138442076-f77e64ec-3123-4066-a093-8c291f4b7da5.png)
 
 
-# Observation three: What is the relationship between sales and outlet type: including both tier type & Size?
+# Observation Three: What Is the Relationship Between Sales and Outlet type: Including Both Tier Type & Size?
 
 We can see that given outlet type, then sales tend to be better: but two interesting things is that: for supermarket type 2 and type 3, tier 3 is consistent—we also see that outlet size does not play much of a role, except when looking at supermarket type 1.
 
@@ -42,7 +42,9 @@ We can see that given outlet type, then sales tend to be better: but two interes
 
 
 
-# plot 4
+# Observation Four: What Is the Relationship Between Sales and Item MRP: Including both item fat content & item weight?
+
+We see that as an item is more expensive, that yields greater sales-moreover; we also see that item fat content does not play much of a role given that it is spread equally same is true with item weight.
 
 ![image](https://user-images.githubusercontent.com/55922514/138443199-3c468d5a-721b-49fd-9c80-f7aa70d86225.png)
 
