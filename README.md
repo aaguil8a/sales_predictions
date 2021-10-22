@@ -25,7 +25,10 @@ When looking at the relationship between sales and item visibility, it is intere
 ![image](https://user-images.githubusercontent.com/55922514/138441941-280737aa-477b-49c1-b0c3-d47563e6022b.png)
 
 
-# plot 2
+# Observation two: What is the relationship between sales and outlet type?
+
+Within the boxplot, we see that sales are better at supermarket type 3 and that grocery store does the worse in terms of sales.
+
 
 ![image](https://user-images.githubusercontent.com/55922514/138442076-f77e64ec-3123-4066-a093-8c291f4b7da5.png)
 
