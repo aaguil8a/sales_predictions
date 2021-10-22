@@ -7,10 +7,9 @@ For this project, I used a dataset from: Big Mart Outlets which has been collect
 
 # Data Dictionary
 
+Source: 
 
-![IMG_1272](https://user-images.githubusercontent.com/55922514/138436055-5720c4ec-0e57-4b75-abfe-d623b6aa542a.jpg)
-
-
+![Screenshot 2021-10-22 030838](https://user-images.githubusercontent.com/55922514/138436405-5f0dde25-3045-43d9-8841-5099433bd411.png)
 
 # Aim
 The aim is to build a predictive model and predict the sales of each product at a particular outlet.
