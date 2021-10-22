@@ -35,7 +35,8 @@ The aim is to build a predictive model and predict the sales of each product at 
 
 # plot 4
 
-![image](https://user-images.githubusercontent.com/55922514/138442263-5f0eddc5-663c-4926-80f9-8322e5a1a003.png)
+![image](https://user-images.githubusercontent.com/55922514/138443199-3c468d5a-721b-49fd-9c80-f7aa70d86225.png)
+
 
 
 
